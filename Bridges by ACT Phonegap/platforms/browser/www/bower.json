@@ -1,0 +1,24 @@
+{
+  "name": "bridges.assistivet.com",
+  "authors": [
+    "MichaelWRitchie <Michael@GerminalResources.com>"
+  ],
+  "description": "bower file",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://www.GerminalResources.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "bootstrap": "~3.2.0",
+    "speech-synthesis-cordova": "https://github.com/arvindr21/speech-synthesis-cordova.git" 
+                                       
+  }
+}
